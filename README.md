@@ -5,6 +5,7 @@ Meinan Wang - NUID 001386565
 Youting Wang - NUID 001054058
 
 Page Overview:
+
 Welcome Page: User can select to login or register button which directs them to a different page.
 
 Register Page: User give email address and password to create a new account which will be stored in firebase database. The typed email should be well-formatted, and password needs longer than 6, otherwise an error will be showed on the screen to remind users to retype related information.
