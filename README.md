@@ -6,8 +6,12 @@ Meinan Wang - NUID 001386565
 
 Youting Wang - NUID 001054058
 
-##  Quick Review demo can be downloaded in dome.mov or reviewed in the link 
+## Video demo link
 https://drive.google.com/file/d/13tTlSG2alxXQbU-500j0x_qbaqyM7HYH/view?usp=sharing
+
+## Quick Review
+https://drive.google.com/file/d/1FzryNFa0jvx9mbafToCuudSuGDKGHAbo/view?usp=sharing
+
 
 ## Welcome Page
 
